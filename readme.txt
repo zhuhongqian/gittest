@@ -6,3 +6,5 @@ now is in dev branch:wq
 
 create a new branch is quick & simple
 create a new branch is quick and simle
+
+add merge
